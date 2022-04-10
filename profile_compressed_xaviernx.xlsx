@@ -1,0 +1,7 @@
+Module    | Self CPU total | CPU total | Self CUDA total | CUDA total | Self CPU Mem | CPU Mem | Self CUDA Mem | CUDA Mem | Number of Calls
+----------|----------------|-----------|-----------------|------------|--------------|---------|---------------|----------|----------------
+TRTModule | 6.429s         | 6.429s    | 4.338s          | 4.338s     | 0 b          | 0 b     | 4.762 Gb      | 4.762 Gb | 15             
+
+
+The layers cost longer than 1.400000s: 
+('TRTModule')			                        Cost time in CPU:6.429218s
