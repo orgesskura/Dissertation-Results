@@ -33,18 +33,18 @@ I will provide a description of the files below:
 
 - matching.py - class that coordinated everything in the pipeline and was used in compressing the model
 
-Further instructions on configuring the device:
+Further instructions on configuring the devices:
 
-Get COCO Dataset Link: wget http://images.cocodataset.org/zips/train2014.zip
+- Get COCO Dataset Link: wget http://images.cocodataset.org/zips/train2014.zip
 
 
-Official SuperPoint + Superglue: https://github.com/magicleap/SuperGluePretrainedNetwork . This was used for profiling SuperGlue and Superpoint combined model.
+- Official SuperPoint + Superglue repo link: https://github.com/magicleap/SuperGluePretrainedNetwork . This was used for profiling SuperGlue and Superpoint combined model.
 
-SuperGlue repo link: https://github.com/skylook/SuperGlue . This was used to profile SuperGlue only model.
+- SuperGlue repo link: https://github.com/skylook/SuperGlue . This was used to profile SuperGlue only model.
 
-Install Torch on Nvidia-Jetson: https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-10-now-available/72048
+- Install Torch on Nvidia-Jetson: https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-10-now-available/72048
 
-Configure TensorRT: https://docs.donkeycar.com/guide/robot_sbc/tensorrt_jetson_nano/
+- Configure TensorRT: https://docs.donkeycar.com/guide/robot_sbc/tensorrt_jetson_nano/
 
 
 
