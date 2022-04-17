@@ -3,7 +3,7 @@
 
 
 
-This repository contains the code implemented for my dissertation at University of Edinburgh. The dissetation title is: On the Applicability of feature matching on embedded devices.
+This repository contains the code implemented for my dissertation at University of Edinburgh. The dissertation title is: On the Applicability of feature matching on embedded devices.
 
 I will provide a description of the files below:
 
